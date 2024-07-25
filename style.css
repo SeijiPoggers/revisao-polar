@@ -10,8 +10,8 @@ box-sizing: border-box;
 }
 
 .container img{
-    width: 460px;
-    height: 460px;
+    width: 280px;
+    height: 280px;
     border-radius: 20px;
 }
 
@@ -55,16 +55,16 @@ body{
     
 h2{
     font-weight: 700;
-    font-size: 32px;
+    font-size: 28px;
 }
 
 b{
-    font-size: 25px;
+    font-size: 21px;
 }
 
 p{
     font-weight: 650;
-    font-size: 16px;
+    font-size: 12px;
 }
 .container button{
     display: flex;
